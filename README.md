@@ -1,4 +1,4 @@
-# Tag The Habit -- HVPS-4 Annotation Tool
+# Tag The Habit -- HVPS-4 Data Annotation Tool
 
 Simple image annotation tool for cloud particle classification.
 
@@ -16,7 +16,7 @@ python image_annotator.py
 ## Configuration
 
 Edit "config.json" to customize:
-- Class names
+- Class names (with a maximum of 9 classes supported)
 - Image display sizes
 - Output filename
 

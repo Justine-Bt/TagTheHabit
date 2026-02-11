@@ -1,0 +1,15 @@
+{
+  "classes": [
+    "Column_Needle",
+    "Aggregate",
+    "Graupel",
+    "Quasi_Sphere",
+    "Planar",
+    "Dendrite",
+    "Irregular",
+    "Excluded_from_annotation"
+  ],
+  "annotations_file": "annotations.csv",
+  "resized_image_size": 300,
+  "max_original_display_size": 800
+}

@@ -23,7 +23,7 @@ Edit "config.json" to customize:
 ## Output
 
 CSV file with 3 columns:
-- `image`: filename
+- `filename`: filename
 - `class_index`: 0-9
 - `class_name`: label
 
